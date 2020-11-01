@@ -5,5 +5,6 @@ public class Batman {
         System.out.println("I will catch you Joker");
 
         // Yes
+        // Batman has cool Bat mobile
     }
 }
